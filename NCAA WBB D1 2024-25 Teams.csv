@@ -1,0 +1,363 @@
+ncaa_team_id,city,team_name,conference,threads_account
+591903,SMU,Mustangs,ACC,smuwbb
+591717,Clemson,Tigers,ACC,clemsonwbb
+591735,Duke,Blue Devils,ACC,dukewbb
+591841,NC State,Wolfpack,ACC,packwomensbball
+591825,North Carolina,Tarheels,ACC,uncwbb
+591914,Syracuse,Orange,ACC,cusewbb
+591945,Virginia,Cavaliers,ACC,uvawomenshoops
+591748,Florida St.,Seminoles,ACC,fsuwbb
+591757,Georgia Tech,Yellow Jackets,ACC,gtwbb
+591793,Louisville,Cardinals,ACC,louisvillewbb
+591809,Miami,Hurricanes,ACC,caneswbb
+591688,Boston College,Eagles,ACC,bostoncollegewbb
+591997,Notre Dame,Fighting Irish,ACC,ndwbb
+591944,Virginia Tech,Hokies,ACC,hokieswbb
+591868,Pittsburgh,Panthers,ACC,pitt_wbb
+591947,Wake Forest,Demon Deacons,ACC,wakewbb
+591706,California,Golden Bears,ACC,calwbball
+591910,Stanford,Cardinal,ACC,stanfordwbb
+591671,UAlbany,Great Danes,America East,ualbanywbb
+591686,Binghamton,Bearcats,America East,binghamtonuwbb
+591694,Bryant,Bulldogs,America East,bryantwbball
+591992,Maine,Black Bears,America East,blackbearswbb
+591833,NJIT,Highlanders,America East,njitwbb
+591832,New Hampshire,Wildcats,America East,unhwbb
+591801,UMBC,Retrievers,America East,umbcwbb
+591794,UMass Lowell,River Hawks,America East,umasslowellwbb
+591941,Vermont,Catamounts,America East,catamountsbb
+591912,Stetson,Hatters,ASUN,stetsonwbb
+591653,North Florida,Ospreys,ASUN,ospreyswbb
+591659,Lipscomb,Bisons,ASUN,lipscomb_wbb
+591975,Queens (NC),Royals,ASUN,queenswbb
+591681,Austin Peay,Governors,ASUN,govswbb
+591932,Bellarmine,Knights,ASUN,bellarminewbb
+591664,North Ala.,Lions,ASUN,unahoops
+592172,West Ga.,Wolves,ASUN,uwg_wbb
+591966,Central Ark.,Sugar Bears,ASUN,uca_wbb
+591741,Eastern Ky.,Colonels,ASUN,ekuwbb
+591980,FGCU,Eagles,ASUN,fgcu_wbb
+591779,Jacksonville,Dolphins,ASUN,jax_wbb
+591728,Davidson,Wildcats,Atlantic 10,davidsonwbb
+591729,Dayton,Flyers,Atlantic 10,daytonwbb
+591736,Duquesne,Dukes,Atlantic 10,duqwbb
+591750,Fordham,Rams,Atlantic 10,fordhamwbb
+591752,George Mason,Patriots,Atlantic 10,masonwbb
+591753,George Washington,Revolutionaires,Atlantic 10,gw_wbb
+591784,La Salle,Explorers,Atlantic 10,lasalle_wbb
+591797,Loyola Chicago,Ramblers,Atlantic 10,ramberlswbb
+591875,Rhode Island,Rams,Atlantic 10,rhodywbb
+592001,Richmond,Spiders,Atlantic 10,spiderwbball
+591882,Saint Joseph's,Hawks,Atlantic 10,sjuhawks_wbb
+591883,Saint Louis,Billikens,Atlantic 10,saintlouiswbb
+591879,St. Bonaventure,Bonnies,Atlantic 10,bonnies_wbb
+591804,Massachusetts,MinuteWomen,Atlantic 10,umasswbb
+591943,VCU,Rams,Atlantic 10,vcuwbb
+591857,Oklahoma St.,Cowgirls,Big 12,osuwbb
+591921,TCU,Horned Frogs,Big 12,tcuwbb
+591923,Texas Tech,Red Raiders,Big 12,ladyraiderwbb
+591692,BYU,Cougars,Big 12,byuwbb
+591781,Kansas St.,Wildcats,Big 12,kstatewbb
+591713,UCF,Knights,Big 12,ucf.wbb
+591951,West Virginia,Mountaineers,Big 12,wvuwbb
+591684,Baylor,Bears,Big 12,baylorwbb
+591766,Houston,Cougars,Big 12,uhcougarwbb
+591777,Iowa St.,Cyclones,Big 12,cyclonewbb
+591782,Kansas,Jayhawks,Big 12,kuwbball
+591716,Cincinnati,Bearcats,Big 12,gobearcatswbb
+591676,Arizona,Wildcats,Big 12,arizonawbb
+591722,Colorado,Buffaloes,Big 12,cubuffswbb
+591675,Arizona St.,Sun Devils,Big 12,sundevilwbb
+591938,Utah,Utes,Big 12,utahwbb
+591983,UConn,Huskies,Big East,uconwbb
+591800,Marquette,Golden Eagles,Big East,marquettewbb
+591871,Providence,Friars,Big East,providencewbb
+591893,Seton Hall,Pirates,Big East,setonhallwbb
+591726,Creighton,Bluejays,Big East,creightonwbb
+591730,DePaul,Blue Demons,Big East,depaulwbbhoops
+591754,Georgetown,Hoyas,Big East,georgetownwbb
+591697,Butler,Bulldogs,Big East,butleruwbb
+591942,Villanova,Wildcats,Big East,novawbb
+591881,St. John's (NY),Red Storm,Big East,stjohnswbb
+591963,Xavier,Musketeers,Big East,xavier_wbb
+591848,Northern Colo.,Bears,Big Sky,unc_bearswbb
+591986,Eastern Wash.,Eagles,Big Sky,ewuwbb
+591818,Montana St.,Bobcats,Big Sky,msubobcatswbb
+591847,Northern Ariz.,Lumberjacks,Big Sky,nau_wbb
+591950,Weber St.,Wildcats,Big Sky,weberstatewbb
+591768,Idaho St.,Bengals,Big Sky,isuwbb
+591704,Sacramento St.,Hornets,Big Sky,sacstatewbb
+591819,Montana,Grizzlies,Big Sky,montanaladygrizbb
+591769,Idaho,Vandals,Big Sky,vandalswbb
+591869,Portland St.,Vikings,Big Sky,psuvikswbb
+591969,Gardner-Webb,Runnin' Bulldogs,Big South,gwu_wbk
+591824,UNC Asheville,Bulldogs,Big South,uncavlwbb
+591958,Winthrop,Eagles,Big South,winthropwbb
+591683,Charleston So.,Buccaneers,Big South,csubucswbb
+591874,Radford,Highlanders,Big South,radford_wbb
+591656,USC Upstate,Spartans,Big South,upstatewbb
+591790,Longwood,Lancers,Big South,longwoodwbb
+592009,Presbyterian,Blue Hose,Big South,bluehosewbb
+591658,High Point,Panthers,Big South,hpuwbb
+591989,Iowa,Hawkeyes,Big Ten,iowawbb
+591811,Michigan,Wolverines,Big Ten,umichwbball
+591810,Michigan St.,Spartans,Big Ten,msu_wbasketball
+591812,Minnesota,Golden Gophers,Big Ten,gopherwbb
+591829,Nebraska,Cornhuskers,Big Ten,huskerwbb
+591853,Northwestern,Wildcats,Big Ten,nuwbball
+591865,Penn St.,Nittany Lions,Big Ten,pennstatewbb
+591959,Wisconsin,Badgers,Big Ten,badgerwbb
+591878,Rutgers,Scarlet Knights,Big Ten,rutgerswbb
+591771,Illinois,Fighting Illini,Big Ten,illiniwbb
+591774,Indiana,Hoosiers,Big Ten,indianawbb
+591802,Maryland,Terrapins,Big Ten,terpswbb
+591855,Ohio St.,Buckeyes,Big Ten,ohiostatewbb
+591872,Purdue,Boilermakers,Big Ten,purduewbb
+591708,UCLA,Bruins,Big Ten,uclawbb
+591862,Oregon,Ducks,Big Ten,oregonwbb
+592005,Southern California,Trojans,Big Ten,uscwbb
+591949,Washington,Huskies,Big Ten,uw_wbb
+591707,UC Davis,Aggies,Big West,ucdaviswbb
+591709,UC Riverside,Highlanders,Big West,ucrwbb
+591698,Cal Poly,Mustangs,Big West,calpolywbb
+591699,CSU Bakersfield,Roadrunners,Big West,csub_wbb
+591982,UC Irvine,Anteaters,Big West,uciwbb
+591701,Cal St. Fullerton,Titans,Big West,fullerton wbb
+591703,CSUN,Matadors,Big West,csunwbb
+591662,UC San Diego,Tritons,Big West,ucsdwbb
+591705,UC Santa Barbara,Gauchos,Big West,ucsbwbb
+591763,Hawaii,Rainbow Wahine,Big West,hawaiiwbb
+591702,Long Beach St.,Beach,Big West,lbsuwbb
+591846,Northeastern,Huskies,CAA,gonuwbasketball
+591913,Stony Brook,Seawolves,CAA,stonybrookwbb
+591967,Col. of Charleston,Cougars,CAA,cofcwbb
+591761,Hampton,Lady Pirates,CAA,hupirates_wbb
+591732,Delaware,Blue Hens,CAA,delawarewbb
+591817,Monmouth,Hawks,CAA,monmouth_wbb
+591828,UNCW,Seahawks,CAA,uncwwomenshoops
+591710,Campbell,Camels,CAA,gocamelswbb
+591839,N.C. A&T,Aggies,CAA,ladyaggiewbb
+591957,William & Mary,Tribe,CAA,mwtribewbb
+591968,Elon,Phoenix,CAA,elonwbasketball
+591764,Hofstra,Pride,CAA,hofstrawbb
+591928,Towson,Tigers,CAA,towson_wbb
+591985,Drexel,Dragons,CAA,drexelwbb
+591788,Liberty,Lady Flames,CUSA,libertywbb
+591994,Middle Tenn.,Blue Raiders,CUSA,mt_wbb
+591778,Jacksonville St.,Gamecocks,CUSA,jaxstatewbb
+591792,Louisiana Tech,Lady Techsters,CUSA,latechwbb
+591925,UTEP,Miners,CUSA,utepwbb
+591971,Kennesaw St.,Owls,CUSA,ksuowlswbb
+591954,Western Ky.,Lady Toppers,CUSA,ladytopperhoops
+591747,FIU,Panthers,CUSA,fiuwbb
+591834,New Mexico St.,Aggies,CUSA,nmstatewbb
+591886,Sam Houston,Bearkats,CUSA,bearkatswbb
+591974,IUPUI,Jaguars,Horizon,iuindy_wbb
+591877,Robert Morris,Colonials,Horizon,rmuwbasketball
+592008,Green Bay,Phoenix,Horizon,gbphoenixwbb
+591960,Milwaukee,Panthers,Horizon,mke_wbb
+591851,Northern Ky.,Norse,Horizon,nkunorsewbb
+591718,Cleveland St.,Vikings,Horizon,csu_wbasketball
+591854,Oakland,Golden Grizzlies,Horizon,oaklandwbb
+591961,Wright St.,Raiders,Horizon,wrightstatewbb
+591775,Purdue Fort Wayne,Mastodons,Horizon,mastodonwbb
+591965,Youngstown St.,Penguins,Horizon,ysuwomenshoops
+591734,Detroit Mercy,Titans,Horizon,detroitmercywbb
+591723,Columbia,Lions,Ivy League,culionswbb
+591964,Yale,Bulldogs,Ivy League,yalewbasketball
+591999,Princeton,Tigers,Ivy League,princetonwbb
+591725,Cornell,Big Red,Ivy League,cornellwbb
+591693,Brown,Bears,Ivy League,brownu_wbb
+591762,Harvard,Crimson,Ivy League,harvardwbb
+591866,Penn,Quakers,Ivy League,pennwbb
+591727,Dartmouth,Big Green,Ivy League,dartmouthwbb
+591711,Canisius,Golden Griffins,MAAC,griffswbb
+591885,Saint Peter's,Peacocks,MAAC,peacockswbb
+591987,Fairfield,Stags,MAAC,fairfieldwbb
+591799,Marist,Red Foxes,MAAC,maristwbb
+592002,Sacred Heart,Pioneers,MAAC,sacredheartwbb
+591876,Rider,Broncs,MAAC,riderwbb
+591873,Quinnipiac,Bobcats,MAAC,qu_wbb
+591661,Merrimack,Warriors,MAAC,merimackwbb
+591798,Manhattan,Jaspers,MAAC,manhattanwbb
+591837,Niagara,Purple Eagles,MAAC,niagarawbb
+591776,Iona,Gaels,MAAC,ionawbb
+591894,Siena,Saints,MAAC,sienawbb
+591822,Mount St. Mary's,Mountaineers,MAAC,mount_wbb
+591696,Buffalo,Bulls,MAC,ubwomenshoops
+591682,Ball St.,Cardinals,MAC,ballstatewbb
+591849,NIU,Huskies,MAC,gohuskieswbb
+591666,Akron,Zips,MAC,zipswbb
+591742,Eastern Mich.,Eagles,MAC,emuwbb
+591714,Central Mich.,Chippewas,MAC,cmuwbball
+591856,Ohio,Bobcats,MAC,ohiowbasketball
+591808,Miami (OH),RedHawks,MAC,miamioh_wbb
+591690,Bowling Green,Falcons,MAC,bgsuwbb
+591927,Toledo,Rockets,MAC,toledo_wbb
+591991,Kent St.,Golden Flashes,MAC,kentstwbb
+591955,Western Mich.,Broncos,MAC,wmu_wbb
+591767,Howard,Bison,MEAC,howard_wbb
+591821,Morgan St.,Lady Bears,MEAC,msubearswbb
+591724,Coppin St.,Eagles,MEAC,coppinstatewbb
+591896,South Carolina St.,Lady Bulldogs,MEAC,scstatewbb
+591840,N.C. Central,Eagles,MEAC,nccu_wbb
+591731,Delaware St.,Hornets,MEAC,delawarestatewbb
+591996,Norfolk St.,Spartans,MEAC,norfolkstatewbb
+591803,UMES,Hawks,MEAC,umeswomenshoops
+591995,UNLV,Rebels,Mountain West,unlvladyrebels
+591962,Wyoming,Cowgirls,Mountain West,wyomingwbb
+591888,San Diego St.,Aztecs,Mountain West,aztecwbb
+591721,Colorado St.,Rams,Mountain West,csuwbasketball
+591835,New Mexico St.,Aggies,Mountain West,nmstatewbb
+591687,Boise St.,Broncos,Mountain West,boisestatewbb
+591934,Air Force,Falcons,Mountain West,af_wbb
+591831,Nevada,Wolf Pack,Mountain West,nevadawbb
+591700,Fresno St.,Bulldogs,Mountain West,fresnostwbb
+591891,San Jose St.,Spartans,Mountain West,sjsuwbb
+591937,Utah St.,Aggies,Mountain West,usuwbasketball
+591691,Bradley,Braves,MVC,bradley_wbb
+591850,UNI,Panthers,MVC,unipantherwbb
+591939,Valparaiso,Beacons,MVC,valpowbb
+591823,Murray St.,Racers,MVC,murraystateracerswbb
+591907,Missouri St.,Bears,MVC,mostatewbb
+591773,Indiana St.,Sycamores,MVC,indstwbb
+591984,Drake,Bulldogs,MVC,drakewbb
+591901,Southern Ill.,Salukis,MVC,siu_wbasketball
+591743,Evansville,Purple Aces,MVC,ueathletics_wbb
+591772,UIC,Flames,MVC,uic_wbb
+591770,Illinois St.,Redbirds,MVC,redbirdwbb
+591657,Belmont,Bruins,MVC,belmontwbb
+591744,FDU,Knights,NEC,fduknightswbb
+591715,Chicago St.,Cougars,NEC,chistate_wbb
+592223,Mercyhurst,Lakers,NEC,hurst.wbb
+591977,Stonehill,Skyhawks,NEC,stonehillwbb
+591789,LIU,Sharks,NEC,liuwbb
+591946,Wagner,Seahawks,NEC,wagner_wbb
+591880,Saint Francis,The Red Flash,NEC,sfbkwbb
+591712,Central Conn. St.,Blue Devils,NEC,ccsuwomensbasketball
+591651,Le Moyne,Dolphins,NEC,lemoyne_wbb
+591902,SIUE,Cougars,OVC,siuewbb
+591919,UT Martin,Skyhawks,OVC,utmartinwbb
+591916,Tennessee St.,Lady Tigers,OVC,tsutigerswbb
+591820,Morehead St.,Eagles,OVC,msueagles_wbb
+591917,Tennessee Tech,Golden Eagles,OVC,ttuwbb
+592010,Southern Ind.,Screaming Eagles,OVC,usi.wbb
+591899,Southeast Mo. St.,Redhawks,OVC,officialsemowbb
+591953,Western Ill.,Leathernecks,OVC,wiuwbb
+591976,Lindenwood,Lions,OVC,lindenwoodwbb
+591679,Little Rock,Trojans,OVC,littlerockwbb
+591739,Eastern Ill.,Panthers,OVC,eiuwbb
+591988,Holy Cross,Crusaders,Patriot,hcrosswbb
+591689,Boston U.,Terriers,Patriot,terrierwbb
+591785,Lafayette,Leopards,Patriot,lafayettewbb
+591935,Army West Point,Black Knights,Patriot,armywestpointwbb
+591795,Loyola Maryland,Greyhounds,Patriot,loyolawbb
+591695,Bucknell,Bison,Patriot,bucknell_wbb
+591720,Colgate,Raiders,Patriot,colgatewbb
+591787,Lehigh,Mountain Hawks,Patriot,lehighwbb
+591936,Navy,Midshipmen,Patriot,navywbb
+591673,American,Eagles,Patriot,auwbasketball
+591669,Alabama,Crimson Tide,SEC,alabamawbb
+591680,Auburn,Tigers,SEC,auburnwbb
+591749,Florida,Gators,SEC,gatorswbk
+591813,Mississippi St.,Bulldogs,SEC,hailstatewbk
+591940,Vanderbilt,Commodores,SEC,VandyWBB
+591678,Arkansas,Razorbacks,SEC,razorbackwbb
+591783,Kentucky,Wildcats,SEC,kentuckywbb
+592003,South Carolina,Gamecocks,SEC,gamecockwbb
+591920,Texas A&M,Aggies,SEC,aggiewbb
+591758,Georgia,Bulldogs,SEC,uga_wbb
+591791,LSU,Tigers,SEC,lsuwbkb
+591816,Missouri,Tigers,SEC,mizzouwbb
+591918,Tennessee,Volunteers,SEC,ladyvol_hoops
+591815,Ole Miss,Rebels,SEC,olemisswbb
+591858,Oklahoma,Sooners,SEC,ou_wbball
+592007,Texas,Longhorns,SEC,texaswbb
+591807,Mercer,Bears,SoCon,mercer_wbb
+591751,Furman,Paladins,SoCon,furmanwbb
+591952,Western Caro.,Catamounts,SoCon,catamountswbb
+591827,UNC Greensboro,Spartans,SoCon,uncgwbb
+592006,Chattanooga,Mocs,SoCon,gomocswbk
+591655,Wofford,Terriers,SoCon,wofford_wbb
+591887,Samford,Bulldogs,SoCon,samfordwbb
+591738,ETSU,Buccaneers (Bucs),SoCon,etsu_wbb
+591900,Southeastern La.,Lady Lions,Southland,lionupwbb
+591838,Nicholls,Colonels,Southland,nicholls_wbb
+591978,East Texas A&M,Lions,Southland,etamu_wbb
+591805,McNeese,Cowgirls,Southland,mcneesewbb
+591786,Lamar University,Cardinals,Southland,lamarwbb
+591836,New Orleans,Privateers,Southland,privateerswbb
+591911,SFA,Ladyjacks,Southland,sfa_wbb
+591654,UIW,Cardinals,Southland,uiw_womenshoops
+591979,A&M-Corpus Christi,Islanders,Southland,islanderswbb
+591765,Houston Christian,Huskies,Southland,hcuwbb
+591852,Northwestern St.,Lady Demons,Southland,nsudemons_wbb
+591864,UTRGV,Vaqueros,Southland,utrgvwbb
+591733,Denver,Pioneers,Summit League,du_whoops
+592004,South Dakota St.,Jackrabbits,Summit League,gojackswbb
+591860,Oral Roberts,Golden Eagles,Summit League,oruwbb
+591842,North Dakota St.,Bison,Summit League,ndsuwbb
+591830,Omaha,Mavericks,Summit League,omahawbb
+591740,St. Thomas (MN),Tommies,Summit League,tommiewbball
+591897,South Dakota,Coyotes,Summit League,sdcoyoteswbb
+591652,Kansas City,Roos,Summit League,kcrooswbb
+591843,North Dakota,Fighting Hawks,Summit League,undwbasketball
+591904,Soutern Miss.,Lady Eagles,Sun Belt,southernmisswbb
+591859,Old Dominion,Monarchs,Sun Belt,oduwbasketball
+591674,App State,Mountaineers,Sun Belt,appstatewbb
+591755,Ga. Southern,Eagles,Sun Belt,gsathletics_wbb
+591780,James Madison,Dukes,Sun Belt,jmuwbasketball
+591895,South Alabama,Jaguars,Sun Belt,southalabamawbb
+591719,Coastal Carolina,Chanticleers,Sun Belt,coastalwbb
+591909,Louisiana,Ragin' Cajuns,Sun Belt,RaginCajunsWBB
+591908,Texas St.,Bobcats,Sun Belt,txstatewbb
+591756,Georgia St.,Panthers,Sun Belt,gsu_wbasketball
+591677,Arkansas St.,Red Wolves,Sun Belt,astatewbb
+591993,Marshall,Thundering Herd,Sun Belt,herdwbb
+591929,Troy,Trojans,Sun Belt,troytrojanswbb
+591845,ULM,Warhawks,Sun Belt,ulm_wbb
+591990,Jackson St.,Lady Tigers,SWAC,gojsutigerswbb
+591668,Alabama St.,Lady Hornets,SWAC,bamastatewbb
+591760,Grambling,Lady Tigers,SWAC,gram_wbb
+591814,Mississippi Val.,Devilettes,SWAC,valleystatewbb
+591922,Texas Southern,Lady Tigers,SWAC,tsuwomensbasketball
+591973,Ark.-Pine Bluff,Lady Lions,SWAC,uapblionswbb
+591905,Southern U.,Lady Jaguars,SWAC,southernu_wbb
+591685,Bethune-Cookman,Wildcats,SWAC,bcu_wbb
+591745,Florida A&M,Lady Rattlers,SWAC,famuwbb
+591672,Alcorn,Lady Braves,SWAC,alcornstatewbb
+591667,Alabama A&M,Bulldogs,SWAC,aamuwbb
+591870,Prairie View,Lady Panthers,SWAC,pvamu_wbb
+591898,South Fla.,Bulls,The American,usfwbb
+591933,Tulsa,Golden Hurricane,The American,tulsawbb
+591670,UAB,Blazers,The American,uab_wbball
+591826,Charlotte,49ers,The American,charlottewbb
+591737,East Carolina,Pirates,The American,ecuwbb
+591844,North Texas,Mean Green,The American,meangreenwbb
+592000,Rice,Owls,The American,ricewbb
+591915,Temple,Owls,The American,templewbb
+591930,Tulane,Green Wave,The American,greenwavewbb
+591746,Fla. Atlantic,Owls,The American,fauwbb
+591926,UTSA,Roadrunners,The American,utsa_wbb
+591956,Wichita St.,Shockers,The American,goshockerswbb
+591806,Memphis,Tigers,The American,memphiswbb
+591931,Utah Tech,Trailblazers,WAC,utahtech_wbb
+591981,California Baptist,Lancers,WAC,cbuwbb
+591906,Southern Utah,Thunderbirds,WAC,suuwbasketball
+591663,Tarleton St.,Texans,WAC,tarletonwbb
+591924,UT Arlington,Mavericks,WAC,utamavswbb
+591970,Grand Canyon,Lopes,WAC,gcu_wbb
+591665,Abilene Christian,Wildcats,WAC,acuwbb
+591972,Seattle U,Redhawks,WAC,seattleu_wbb
+591660,Utah Valley,Wolverines,WAC,uvuwbb
+591948,Washington St.,Cougars,WCC,wsucougarwbb
+591861,Oregon St.,Beavers,WCC,beaverwbb
+591863,Pacific,Tigers,WCC,pacificwbb
+591890,San Francisco,Dons,WCC,usfdonswbb
+591892,Santa Clara,Broncos,WCC,santaclarawbb
+591884,Saint Mary's (CA),Gaels,WCC,gaelswbb
+591867,Pepperdine,Waves,WCC,pepperdinewbb
+591796,LMU (CA),Lions,WCC,lmulionswbb
+591759,Gonzaga,Bulldogs,WCC,zagwbb
+591889,San Diego,Toreros,WCC,usdwbb
+591998,Portland,Pilots,WCC,portlandwbb
